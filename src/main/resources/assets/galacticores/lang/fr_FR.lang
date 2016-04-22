@@ -1,0 +1,58 @@
+#Blocks
+
+tile.oreMoons.europium.name=Minerai d'Europium
+tile.oreMoons.palladium.name=Minerai de Palladium
+tile.oreMoons.jade.name=Minerai de Jade
+tile.oreMoons.rhodium.name=Minerai de Rhodium
+tile.oreMoons.petalite.name=Minerai de Pétalite
+
+tile.orePlanets.mercurian.name=Minerai de Fer de Mercure
+tile.orePlanets.citrine.name=Minerai de Citrine
+tile.orePlanets.plutonium.name=Minerai de Plutonium
+tile.orePlanets.bismuth.name=Minerai de Bismuth
+tile.orePlanets.onyx.name=Minerai d'Onyx Noir
+tile.orePlanets.centaurium.name=Minerai de Centaurium
+tile.orePlanets.pinkquartz.name=Minerai de Quartz Rose
+tile.orePlanets.carnelian.name=Minerai de Cornaline
+tile.orePlanets.chalcedony.name=Minerai de Calcédoine
+tile.orePlanets.iridium.name=Minerai d'Iridium
+
+tile.blockMoons.europium.name=Block d'Europium 
+tile.blockMoons.palladium.name=Block de Palladium 
+tile.blockMoons.jade.name=Block de Jade 
+tile.blockMoons.rhodium.name=Block de Rhodium 
+tile.blockMoons.petalite.name=Block de Pétalite 
+
+tile.blockPlanets.mercurian.name=Block de Fer de Mercure
+tile.blockPlanets.citrine.name=Block de Citrine 
+tile.blockPlanets.plutonium.name=Block de Plutonium 
+tile.blockPlanets.bismuth.name=Block de Bismuth 
+tile.blockPlanets.onyx.name=Block d'Onyx Noir
+tile.blockPlanets.centaurium.name=Block de Centaurium 
+tile.blockPlanets.pinkquartz.name=Block de Quartz Rose
+tile.blockPlanets.carnelian.name=Block de Cornaline 
+tile.blockPlanets.chalcedony.name=Block de Calcédoine 
+tile.blockPlanets.iridium.name=Block d'Iridium 
+
+#Items
+
+item.drop.itemCitrine.name=Citrine
+item.drop.itemOnyx.name=Onyx Noir
+item.drop.itemPinkQuartz.name=Pink Quartz
+item.drop.itemCarnelian.name=Cornaline
+item.drop.itemChalcedony.name=Calcédoine
+item.drop.itemIridium.name=Iridium Brut
+item.drop.itemJade.name=Jade
+item.drop.itemPetalite.name=Pétalite
+item.ingot.itemMercurianIngot.name=Lingot de Fer de Mercure
+item.ingot.itemPlutoniumIngot.name=Lingot de Plutonium
+item.ingot.itemBismuthIngot.name=Lingot de Bismuth
+item.ingot.itemCentauriumIngot.name=Lingot de Centaurium
+item.ingot.itemIridiumIngot.name=Lingot d'Iridium
+item.ingot.itemEuropiumIngot.name=Lingot d'Europium
+item.ingot.itemPalladiumIngot.name=Lingot de Palladium
+item.ingot.itemRhodiumIngot.name=Lingot de Rhodium
+
+#Misc
+
+itemGroup.GalacticOres=Galactic Ores

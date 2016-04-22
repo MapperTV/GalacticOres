@@ -1,0 +1,16 @@
+[
+{
+  "modid": "galacticores",
+  "name": "Galactic Ores",
+  "description": "Adds many ores and items for Galacticraft and Galaxy Space. Warning! Does not generate without any external generator like COFH world gen tools.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.killermapper.net",
+  "updateUrl": "",
+  "authorList": ["KillerMapper"],
+  "credits": "MFF for tutorials",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

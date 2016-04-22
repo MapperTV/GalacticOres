@@ -1,0 +1,58 @@
+#Blocks
+
+tile.oreMoons.europium.name=Europium Ore
+tile.oreMoons.palladium.name=Palladium Ore
+tile.oreMoons.jade.name=Jade Ore
+tile.oreMoons.rhodium.name=Rhodium Ore
+tile.oreMoons.petalite.name=Petalite Ore
+
+tile.orePlanets.mercurian.name=Mercurian Iron Ore
+tile.orePlanets.citrine.name=Citrine Ore
+tile.orePlanets.plutonium.name=Plutonium Ore
+tile.orePlanets.bismuth.name=Bismuth Ore
+tile.orePlanets.onyx.name=Onyx Ore
+tile.orePlanets.centaurium.name=Centaurium Ore
+tile.orePlanets.pinkquartz.name=Pink Quartz Ore
+tile.orePlanets.carnelian.name=Carnelian Ore
+tile.orePlanets.chalcedony.name=Chalcedony Ore
+tile.orePlanets.iridium.name=Iridium Ore
+
+tile.blockMoons.europium.name=Europium Block
+tile.blockMoons.palladium.name=Palladium Block
+tile.blockMoons.jade.name=Jade Block
+tile.blockMoons.rhodium.name=Rhodium Block
+tile.blockMoons.petalite.name=Petalite Block
+
+tile.blockPlanets.mercurian.name=Mercurian Iron Block
+tile.blockPlanets.citrine.name=Citrine Block
+tile.blockPlanets.plutonium.name=Plutonium Block
+tile.blockPlanets.bismuth.name=Bismuth Block
+tile.blockPlanets.onyx.name=Onyx Block
+tile.blockPlanets.centaurium.name=Centaurium Block
+tile.blockPlanets.pinkquartz.name=Pink Quartz Block
+tile.blockPlanets.carnelian.name=Carnelian Block
+tile.blockPlanets.chalcedony.name=Chalcedony Block
+tile.blockPlanets.iridium.name=Iridium Block
+
+#Items
+
+item.drop.itemCitrine.name=Citrine
+item.drop.itemOnyx.name=Black Onyx
+item.drop.itemPinkQuartz.name=Pink Quartz
+item.drop.itemCarnelian.name=Carnelian
+item.drop.itemChalcedony.name=Chalcedony
+item.drop.itemIridium.name=Raw Iridium
+item.drop.itemJade.name=Jade
+item.drop.itemPetalite.name=Petalite
+item.ingot.itemMercurianIngot.name=Mercurian Iron Ingot
+item.ingot.itemPlutoniumIngot.name=Plutonium Ingot
+item.ingot.itemBismuthIngot.name=Bismuth Ingot
+item.ingot.itemCentauriumIngot.name=Centaurium Ingot
+item.ingot.itemIridiumIngot.name=Iridium Ingot
+item.ingot.itemEuropiumIngot.name=Europium Ingot
+item.ingot.itemPalladiumIngot.name=Palladium Ingot
+item.ingot.itemRhodiumIngot.name=Rhodium Ingot
+
+#Misc
+
+itemGroup.GalacticOres=Galactic Ores
