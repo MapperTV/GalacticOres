@@ -15,6 +15,7 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.util.IIcon;
 import net.minecraft.util.MathHelper;
 import net.minecraft.world.IBlockAccess;
+import net.minecraft.world.World;
 
 public class OreMoons extends Block
 {
@@ -44,6 +45,12 @@ public class OreMoons extends Block
             default:
                 return metadata;
         }
+    }
+    
+    public int getDamageValue(World world, int x, int y, int z)
+    {
+        int meta = world.getBlockMetadata(x, y, z);
+        return meta;
     }
 
     public void getSubBlocks(Item item, CreativeTabs tabs, List list)

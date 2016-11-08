@@ -16,7 +16,7 @@ import net.killermapper.galacticores.proxy.CommonProxy;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 
-@Mod(modid = "galacticores", name = "Galactic Ores", version = "1.0")
+@Mod(modid = "galacticores", name = "Galactic Ores", version = "1.1")
 
 public class GalacticOres
 {
