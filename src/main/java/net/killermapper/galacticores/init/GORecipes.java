@@ -28,12 +28,30 @@ public class GORecipes
         GameRegistry.addRecipe(new ItemStack(GOBlocks.BlockMoons, 1, 3), new Object[] {"XXX", "XXX", "XXX", 'X', new ItemStack(GOItems.itemIngots, 1, 7)});
         GameRegistry.addRecipe(new ItemStack(GOBlocks.BlockMoons, 1, 4), new Object[] {"XXX", "XXX", "XXX", 'X', new ItemStack(GOItems.itemDrops, 1, 7)});
 
+        // Storage blocks to raw items / ingot
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemIngots, 9, 0), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockPlanets, 1, 0)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemIngots, 9, 1), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockPlanets, 1, 2)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemIngots, 9, 2), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockPlanets, 1, 3)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemIngots, 9, 3), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockPlanets, 1, 5)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemIngots, 9, 4), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockPlanets, 1, 9)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemIngots, 9, 5), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockMoons, 1, 0)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemIngots, 9, 6), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockMoons, 1, 1)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemIngots, 9, 7), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockMoons, 1, 3)});
+
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemDrops, 9, 0), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockPlanets, 1, 1)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemDrops, 9, 1), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockPlanets, 1, 4)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemDrops, 9, 2), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockPlanets, 1, 6)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemDrops, 9, 3), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockPlanets, 1, 7)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemDrops, 9, 4), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockPlanets, 1, 8)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemDrops, 9, 6), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockMoons, 1, 2)});
+        GameRegistry.addShapedRecipe(new ItemStack(GOItems.itemDrops, 9, 7), new Object[] {"X", 'X', new ItemStack(GOBlocks.BlockMoons, 1, 4)});
+
         // Furnace
         GameRegistry.addSmelting(new ItemStack(GOBlocks.OrePlanets, 1, 0), new ItemStack(GOItems.itemIngots, 1, 0), 0.35F);
         GameRegistry.addSmelting(new ItemStack(GOBlocks.OrePlanets, 1, 2), new ItemStack(GOItems.itemIngots, 1, 1), 0.35F);
         GameRegistry.addSmelting(new ItemStack(GOBlocks.OrePlanets, 1, 3), new ItemStack(GOItems.itemIngots, 1, 2), 0.35F);
         GameRegistry.addSmelting(new ItemStack(GOBlocks.OrePlanets, 1, 5), new ItemStack(GOItems.itemIngots, 1, 3), 0.35F);
-        GameRegistry.addSmelting(new ItemStack(GOItems.itemDrops, 1, 5), new ItemStack(GOItems.itemIngots, 1, 4), 0.35F);
+        GameRegistry.addSmelting(new ItemStack(GOItems.itemDrops, 1, 5), new ItemStack(GOItems.itemIngots, 1, 4), 0.75F);
         GameRegistry.addSmelting(new ItemStack(GOBlocks.OreMoons, 1, 0), new ItemStack(GOItems.itemIngots, 1, 5), 0.35F);
         GameRegistry.addSmelting(new ItemStack(GOBlocks.OreMoons, 1, 1), new ItemStack(GOItems.itemIngots, 1, 6), 0.35F);
         GameRegistry.addSmelting(new ItemStack(GOBlocks.OreMoons, 1, 3), new ItemStack(GOItems.itemIngots, 1, 7), 0.35F);
